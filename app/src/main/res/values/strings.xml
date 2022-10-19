@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Z10_G4</string>
+    <string name="BotonLogin">Ingresa Sesion</string>
+    <string name="Registro">Registrese</string>
+</resources>
