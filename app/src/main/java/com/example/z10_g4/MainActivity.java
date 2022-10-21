@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         ingreso.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent mapa=new Intent( MainActivity.this , Mapa.class);
+                Intent mapa=new Intent( MainActivity.this , MapsActivity.class);
                 startActivity(mapa);
             }
         });
